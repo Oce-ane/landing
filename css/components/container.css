@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 2em;
+  margin: 0;
+}
+
+.banner p {
+  color: lightgray;
+}
+
+.btn-green {
+  display: inline-block;
+  background-color: #1EDD88;
+  border-radius: 25px;
+  padding: 16px 36px;
+  width: 82px;
+  color: white;
+}
